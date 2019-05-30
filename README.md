@@ -1,1 +1,2 @@
-# RayTracer
+# Ray Tracer
+
