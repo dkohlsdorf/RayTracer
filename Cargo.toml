@@ -5,4 +5,4 @@ authors = ["Daniel Kohlsdorf <daniel.kohlsdorf@xing.com>"]
 edition = "2018"
 
 [dependencies]
-png = "*"
+png = "0.14.1"
